@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Datos de Sistemas</string>
+    <string name="main_activity_title">Encuesta Ingenieria de Sistemas</string>
+    <string name="main_activity_input_name">Ingrese sus nombres y apellidos:</string>
+    <string name="main_activity_label_name">Nombre y Apellido:</string>
+    <string name="main_activity_label_email">Correo Universitario:</string>
+    <string name="main_activity_input_email">Ingrese su correo universitario:</string>
+    <string name="main_activity_input_cui">Ingrese su CUI:</string>
+    <string name="main_activity_label_cui">"CUI:</string>
+    <string name="main_activity_input_phone_number">Ingrese su numero de celular:</string>
+    <string name="main_activity_label_phone_number">"Celular:</string>
+    <string name="main_activity_button_submit">"Enviar datos</string>
+</resources>
